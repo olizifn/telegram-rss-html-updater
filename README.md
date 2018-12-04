@@ -1,4 +1,4 @@
-# xml_telegram_updater
+# telegram-rss-html-updater
 
 Hi, 
 this is a telegram bot, which can keep you up to date.
